@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="@dimen/gameCardSearchSize"
+    android:padding="@dimen/gameCardSearchPadding"
+    android:background="@drawable/rectangle_playing">
+    <ImageView
+        android:id="@+id/ivCover"
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"/>
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+        <TextView
+            android:id="@+id/tvQueryTitle"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/gameCardSearchTextSize"
+            android:textAlignment="center"/>
+        <TextView
+            android:id="@+id/tvQueryRelease"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/gameCardSearchTextSize"
+            android:textAlignment="center"/>
+        <TextView
+            android:id="@+id/tvQueryPlatform"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="@dimen/gameCardSearchTextSize"
+            android:textAlignment="center"/>
+    </LinearLayout>
+
+</LinearLayout>

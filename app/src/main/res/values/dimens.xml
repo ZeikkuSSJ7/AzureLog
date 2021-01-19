@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="gameInfoTextPadding">7dp</dimen>
+    <dimen name="gameInfoTextSize">16sp</dimen>
+    <dimen name="gameInfoNameTextSize">22sp</dimen>
+    <dimen name="gameInfoDescriptionPadding">10dp</dimen>
+    <dimen name="gameInfoCoverPadding">10dp</dimen>
+    <dimen name="gameCardSearchSize">180dp</dimen>
+    <dimen name="gameCardSearchPadding">10dp</dimen>
+    <dimen name="gameCardSearchCoverSize">10sp</dimen>
+    <dimen name="gameCardSearchTextSize">5sp</dimen>
+    <dimen name="dialogEditCommentEditTextMinHeight">150dp</dimen>
+    <dimen name="drawerHeaderIconMargin">15dp</dimen>
+    <dimen name="drawerHeaderAppNameTextMarginTop">40dp</dimen>
+    <dimen name="drawerHeaderAppNameTextSize">28sp</dimen>
+    <dimen name="gameGridCardMargin">1dp</dimen>
+    <dimen name="gameGridCardPadding">2dp</dimen>
+    <dimen name="gameGridCardCoverPadding">3dp</dimen>
+    <dimen name="gameGridCardTextHeight">50dp</dimen>
+    <dimen name="gameGridCardTextPadding">5dp</dimen>
+    <dimen name="gameGridRowHeight">200dp</dimen>
+    <dimen name="addDatabaseSize">150dp</dimen>
+    <dimen name="dateEditTextSize">105dp</dimen>
+</resources>

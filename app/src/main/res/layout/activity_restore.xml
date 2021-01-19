@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".settings.BackupActivity"
+    android:id="@+id/rlBackupParent">
+    <TextView
+        android:id="@+id/backup_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:text="@string/whatBackupRestore"
+        android:padding="20dp"
+        android:background="@drawable/rectangle_playing"/>
+    <LinearLayout
+        android:layout_below="@id/backup_text"
+        android:id="@+id/llBackups"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"/>
+</RelativeLayout>

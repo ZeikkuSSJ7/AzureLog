@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_height="wrap_content"
+    android:layout_width="match_parent"
+    android:padding="@dimen/gameGridCardPadding">
+    <ImageView
+        android:id="@+id/gridGameCover"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="@dimen/gameGridCardMargin"/>
+    <TextView
+        android:id="@+id/gridGameTitle"
+        android:background="@drawable/rectangle_grid_text"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="0.25"
+        android:ellipsize="end"
+        android:padding="@dimen/gameGridCardTextPadding"
+        android:layout_margin="@dimen/gameGridCardMargin"
+        android:textSize="16sp"
+        android:text="@string/defaultName"/>
+</LinearLayout>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:id="@+id/group_divider"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuSearchGame"
+            android:icon="@drawable/search_web_icon"
+            android:title="@string/searchGame"/>
+        <item
+            android:id="@+id/menuSearchGameAdvanced"
+            android:icon="@drawable/search_database_icon"
+            android:title="@string/advancedSearch"/>
+    </group>
+    <group android:id="@+id/group_divider1"
+        android:menuCategory="alternative"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuPlanToPlay"
+            android:icon="@drawable/plan_to_play_icon"
+            android:title="@string/planToPlay"/>
+        <item
+            android:id="@+id/menuOnHold"
+            android:icon="@drawable/on_hold_icon"
+            android:title="@string/onHold"/>
+        <item
+            android:id="@+id/menuDropped"
+            android:icon="@drawable/dropped_icon"
+            android:title="@string/dropped"/>
+        <item
+            android:id="@+id/menuCompleted"
+            android:icon="@drawable/completed_icon"
+            android:title="@string/completed"/>
+        <item
+            android:id="@+id/menuMastered"
+            android:icon="@drawable/mastered_icon"
+            android:title="@string/mastered"/>
+        <item
+            android:id="@+id/menuAllGames"
+            android:icon="@drawable/search_database_icon"
+            android:title="@string/allGames"/>
+    </group>
+    <group android:id="@+id/group_divider2"
+        android:menuCategory="alternative"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuSettings"
+            android:icon="@drawable/settings_icon"
+            android:title="@string/settings"/>
+        <item
+            android:id="@+id/menuProfile"
+            android:icon="@drawable/profile_icon"
+            android:title="@string/profile"/>
+    </group>
+    <group android:id="@+id/group_divider3"
+        android:menuCategory="alternative"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/menuDeveloper"
+            android:title="Developer menu"
+            />
+    </group>
+</menu>

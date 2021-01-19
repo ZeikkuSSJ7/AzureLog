@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#0078FF</color>
+    <color name="colorPrimaryDark">#0052B4</color>
+    <color name="colorDatabaseData">#E00101</color>
+    <color name="colorBackground">#383838</color>
+    <color name="colorBackgroundLight">#494949</color>
+    <color name="colorText">#FFFFFF</color>
+    <color name="colorTextGradient">#CC494949</color>
+    <color name="colorPlaying">#0078FF</color>
+    <color name="colorOnHold">#32AF3E</color>
+    <color name="colorDropped">#6000BB</color>
+    <color name="colorPlanToPlay">#E00101</color>
+    <color name="colorCompleted">#00F7FF</color>
+    <color name="colorMastered">#CAB00A</color>
+</resources>

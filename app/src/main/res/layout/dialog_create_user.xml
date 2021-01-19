@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="10dp">
+    <TextView
+        android:id="@+id/tvUsername"
+        android:layout_alignBaseline="@id/etUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="22sp"
+        android:text="@string/usernameBackup"/>
+    <EditText
+        android:id="@+id/etUsername"
+        android:layout_toEndOf="@id/tvUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:minWidth="150dp"
+        android:inputType="text"
+        android:maxLines="1" />
+    <TextView
+        android:layout_below="@id/etUsername"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:text="@string/thisUsernameWillBeUsed"/>
+
+</RelativeLayout>

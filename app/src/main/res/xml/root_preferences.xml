@@ -1,0 +1,80 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <PreferenceCategory app:title="@string/settingsBackupTitle">
+
+        <Preference
+            app:key="newBackup"
+            app:title="@string/preferencesCreateNewBackup"
+            app:summary="@string/settingsBackupDescription">
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="com.zeikkussj.azurelog"
+                android:targetClass="com.zeikkussj.azurelog.settings.BackupActivity"/>
+        </Preference>
+        <Preference
+            app:key="restoreBackup"
+            app:title="@string/preferencesRestoreBackup"
+            app:summary="@string/settingsBackupRestoreDescription" >
+            <intent
+                android:action="android.intent.action.VIEW"
+                android:targetPackage="com.zeikkussj.azurelog"
+                android:targetClass="com.zeikkussj.azurelog.settings.RestoreActivity"/>
+        </Preference>
+        <SwitchPreference
+            app:key="backupDaily"
+            app:title="@string/preferencesBackupDaily"
+            android:summary="@string/preferencesAllowTheAppBackup"
+            app:enabled="true"/>
+        <ListPreference
+            app:key="backupDailyHour"
+            app:title="@string/preferencesBackupDailyHour"
+            android:entries="@array/hours"
+            android:entryValues="@array/hours"
+            app:useSimpleSummaryProvider="true"/>
+        <EditTextPreference
+            app:key="backupIP"
+            app:title="@string/preferencesBackupIP"
+            app:useSimpleSummaryProvider="true"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/preferencesGridOptions">
+        <ListPreference
+            app:key="gridNumberOfColumns"
+            app:title="@string/preferencesNumberOfColumns"
+            android:entries="@array/numberOfGridCells"
+            android:entryValues="@array/numberOfGridCells"
+            app:defaultValue="3"
+            app:useSimpleSummaryProvider="true"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/preferencesNotificationOptions">
+        <SwitchPreference
+            android:key="notificationOnThisDay"
+            app:title="@string/preferencesOnThisDayNotification"
+            android:summary="@string/preferencesAllowTheApp"
+            android:enabled="true"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory app:title="@string/synchronization">
+        <EditTextPreference
+            app:key="syncIP"
+            app:title="@string/preferencesSilentAzureNetIP"
+            app:useSimpleSummaryProvider="true"/>
+        <EditTextPreference
+            app:key="syncUsername"
+            app:title="@string/preferencesUsername"
+            app:useSimpleSummaryProvider="true"/>
+        <EditTextPreference
+            app:key="syncPassword"
+            app:title="@string/preferencesPassword"
+            android:inputType="textPassword"
+            app:useSimpleSummaryProvider="true"/>
+        <Preference
+            app:key="syncSend"
+            app:title="@string/preferencesSendDatabaseUpdates"
+            app:summary="@string/preferencesSendDatabaseUpdatesSummary">
+        </Preference>
+
+    </PreferenceCategory>
+</PreferenceScreen>
