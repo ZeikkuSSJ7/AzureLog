@@ -2,7 +2,7 @@
   "code": 200,
   "status": "Success",
   "data": {
-    "count": 7980,
+    "count": 8209,
     "developers": {
       "1": {
         "id": 1,
@@ -48,17 +48,9 @@
         "id": 11,
         "name": "11 Bit Studios"
       },
-      "12": {
-        "id": 12,
-        "name": "1337 & Senri AB"
-      },
       "13": {
         "id": 13,
         "name": "13AM Games"
-      },
-      "14": {
-        "id": 14,
-        "name": "14Â° East"
       },
       "15": {
         "id": 15,
@@ -90,10 +82,6 @@
       },
       "23": {
         "id": 23,
-        "name": "1C: Ino-Co"
-      },
-      "24": {
-        "id": 24,
         "name": "1C: Ino-Co"
       },
       "25": {
@@ -400,10 +388,6 @@
         "id": 124,
         "name": "7th Level Inc."
       },
-      "125": {
-        "id": 125,
-        "name": "7th Level Inc."
-      },
       "126": {
         "id": 126,
         "name": "7th Sense s.r.l."
@@ -680,10 +664,6 @@
         "id": 209,
         "name": "ACE Team"
       },
-      "210": {
-        "id": 210,
-        "name": "Acess"
-      },
       "213": {
         "id": 213,
         "name": "Acid Nerve"
@@ -771,10 +751,6 @@
       "243": {
         "id": 243,
         "name": "ad Games"
-      },
-      "244": {
-        "id": 244,
-        "name": "Adam Atomic and Danny B"
       },
       "245": {
         "id": 245,
@@ -1000,10 +976,6 @@
         "id": 324,
         "name": "Al Baker & Associates"
       },
-      "325": {
-        "id": 325,
-        "name": "Al Baker & Associates"
-      },
       "327": {
         "id": 327,
         "name": "Al Rubin"
@@ -1012,24 +984,12 @@
         "id": 328,
         "name": "Alain Savetier"
       },
-      "329": {
-        "id": 329,
-        "name": "Alan Hazelden & Harry Lee"
-      },
       "330": {
         "id": 330,
         "name": "Alan Miller"
       },
       "331": {
         "id": 331,
-        "name": "Alawar Entertainment Inc."
-      },
-      "332": {
-        "id": 332,
-        "name": "Alawar Entertainment Inc."
-      },
-      "333": {
-        "id": 333,
         "name": "Alawar Entertainment Inc."
       },
       "334": {
@@ -1239,10 +1199,6 @@
       "410": {
         "id": 410,
         "name": "Sega AM1 R&D Division"
-      },
-      "411": {
-        "id": 411,
-        "name": "SEGA AM-2"
       },
       "412": {
         "id": 412,
@@ -9148,10 +9104,6 @@
         "id": 3017,
         "name": "FDG Entertainment GmbH & Co.KG"
       },
-      "3018": {
-        "id": 3018,
-        "name": "FDG Entertainment GmbH & Co.KG"
-      },
       "3020": {
         "id": 3020,
         "name": "feelplus Inc"
@@ -11980,10 +11932,6 @@
         "id": 3901,
         "name": "Hot Shot"
       },
-      "3903": {
-        "id": 3903,
-        "name": "Hot-B Co."
-      },
       "3905": {
         "id": 3905,
         "name": "HotGen Studios"
@@ -12451,10 +12399,6 @@
       "4082": {
         "id": 4082,
         "name": "Image"
-      },
-      "4083": {
-        "id": 4083,
-        "name": "Image & Form"
       },
       "4084": {
         "id": 4084,
@@ -15988,10 +15932,6 @@
         "id": 5230,
         "name": "Manley & Associates"
       },
-      "5231": {
-        "id": 5231,
-        "name": "Manley & Associates, Inc."
-      },
       "5232": {
         "id": 5232,
         "name": "Manley & Associates, Inc."
@@ -17463,10 +17403,6 @@
       "5718": {
         "id": 5718,
         "name": "Mothership  Entertainment"
-      },
-      "5719": {
-        "id": 5719,
-        "name": "Mothership Entertainment"
       },
       "5720": {
         "id": 5720,
@@ -19416,10 +19352,6 @@
         "id": 6362,
         "name": "Pacific Coast Power & Light"
       },
-      "6363": {
-        "id": 6363,
-        "name": "Pacific Coast Power & Light"
-      },
       "6365": {
         "id": 6365,
         "name": "Pacific Dataworks"
@@ -20695,10 +20627,6 @@
       "6763": {
         "id": 6763,
         "name": "Pow"
-      },
-      "6764": {
-        "id": 6764,
-        "name": "Power & Magic Development"
       },
       "6765": {
         "id": 6765,
@@ -23102,10 +23030,6 @@
       },
       "7554": {
         "id": 7554,
-        "name": "Sega AM3 R&D Division"
-      },
-      "7555": {
-        "id": 7555,
         "name": "Sega AM3 R&D Division"
       },
       "7556": {
@@ -26035,10 +25959,6 @@
       "8541": {
         "id": 8541,
         "name": "Team 6 Studios"
-      },
-      "8543": {
-        "id": 8543,
-        "name": "Team Andromeda"
       },
       "8544": {
         "id": 8544,
@@ -31544,10 +31464,6 @@
         "id": 10299,
         "name": "Tatem Games"
       },
-      "10300": {
-        "id": 10300,
-        "name": "5pb"
-      },
       "10301": {
         "id": 10301,
         "name": "Makoto Hirasaka"
@@ -31848,10 +31764,6 @@
         "id": 10375,
         "name": "Giant Army"
       },
-      "10376": {
-        "id": 10376,
-        "name": "MinMax Games"
-      },
       "10377": {
         "id": 10377,
         "name": "Blindflug Studios"
@@ -31923,10 +31835,1014 @@
       "10394": {
         "id": 10394,
         "name": "Steel Wool Studios"
+      },
+      "10395": {
+        "id": 10395,
+        "name": "The Deep End Games"
+      },
+      "10396": {
+        "id": 10396,
+        "name": "Plausible Concept"
+      },
+      "10397": {
+        "id": 10397,
+        "name": "Art in Heart"
+      },
+      "10398": {
+        "id": 10398,
+        "name": "G-mode"
+      },
+      "10399": {
+        "id": 10399,
+        "name": "Serious Games Interactive"
+      },
+      "10400": {
+        "id": 10400,
+        "name": "Templar Studios"
+      },
+      "10401": {
+        "id": 10401,
+        "name": "Terri Vellimann"
+      },
+      "10402": {
+        "id": 10402,
+        "name": "Doseone"
+      },
+      "10403": {
+        "id": 10403,
+        "name": "Nomada Studio"
+      },
+      "10404": {
+        "id": 10404,
+        "name": "Bad Seahorse"
+      },
+      "10405": {
+        "id": 10405,
+        "name": "Lag Studios"
+      },
+      "10406": {
+        "id": 10406,
+        "name": "Undefeated Games"
+      },
+      "10407": {
+        "id": 10407,
+        "name": "Samuel Villarreal"
+      },
+      "10408": {
+        "id": 10408,
+        "name": "Anvil Game Studios"
+      },
+      "10409": {
+        "id": 10409,
+        "name": "Motive Studios"
+      },
+      "10410": {
+        "id": 10410,
+        "name": "Funomena"
+      },
+      "10411": {
+        "id": 10411,
+        "name": "Bit Kid"
+      },
+      "10412": {
+        "id": 10412,
+        "name": "Spiral"
+      },
+      "10413": {
+        "id": 10413,
+        "name": "Project Two Interactive BV"
+      },
+      "10414": {
+        "id": 10414,
+        "name": "Philipp Eichhorn"
+      },
+      "10415": {
+        "id": 10415,
+        "name": "Enki"
+      },
+      "10416": {
+        "id": 10416,
+        "name": "Redbeet Interactive"
+      },
+      "10417": {
+        "id": 10417,
+        "name": "Mountain King Studios"
+      },
+      "10418": {
+        "id": 10418,
+        "name": "Office Crescendo"
+      },
+      "10419": {
+        "id": 10419,
+        "name": "Minamimachi Bugyousho"
+      },
+      "10420": {
+        "id": 10420,
+        "name": "Sega CS2"
+      },
+      "10421": {
+        "id": 10421,
+        "name": "Inner Brain"
+      },
+      "10422": {
+        "id": 10422,
+        "name": "Something Good"
+      },
+      "10423": {
+        "id": 10423,
+        "name": "ASCII Something Good"
+      },
+      "10424": {
+        "id": 10424,
+        "name": "Societa Daikanyama"
+      },
+      "10425": {
+        "id": 10425,
+        "name": "Clip House"
+      },
+      "10426": {
+        "id": 10426,
+        "name": "Press Start Inc."
+      },
+      "10427": {
+        "id": 10427,
+        "name": "Mizuki"
+      },
+      "10428": {
+        "id": 10428,
+        "name": "9003"
+      },
+      "10429": {
+        "id": 10429,
+        "name": "The Wheelhaus"
+      },
+      "10430": {
+        "id": 10430,
+        "name": "Shoeisha"
+      },
+      "10431": {
+        "id": 10431,
+        "name": "Sugeeya"
+      },
+      "10432": {
+        "id": 10432,
+        "name": "Zero System"
+      },
+      "10433": {
+        "id": 10433,
+        "name": "Team Andromeda"
+      },
+      "10434": {
+        "id": 10434,
+        "name": "Star Child"
+      },
+      "10435": {
+        "id": 10435,
+        "name": "Yoshimoto Kogyo"
+      },
+      "10436": {
+        "id": 10436,
+        "name": "Increment P"
+      },
+      "10437": {
+        "id": 10437,
+        "name": "AIC"
+      },
+      "10438": {
+        "id": 10438,
+        "name": "Nihon Syscom"
+      },
+      "10439": {
+        "id": 10439,
+        "name": "O-Two"
+      },
+      "10440": {
+        "id": 10440,
+        "name": "Sega Away Team"
+      },
+      "10442": {
+        "id": 10442,
+        "name": "Be Top"
+      },
+      "10443": {
+        "id": 10443,
+        "name": "C-Seven"
+      },
+      "10444": {
+        "id": 10444,
+        "name": "Jumpin’ Jack Software"
+      },
+      "10445": {
+        "id": 10445,
+        "name": "Konami of America"
+      },
+      "10446": {
+        "id": 10446,
+        "name": "Oracion"
+      },
+      "10447": {
+        "id": 10447,
+        "name": "Sega PC"
+      },
+      "10448": {
+        "id": 10448,
+        "name": "Stack"
+      },
+      "10449": {
+        "id": 10449,
+        "name": "Team Seven"
+      },
+      "10450": {
+        "id": 10450,
+        "name": "We Net"
+      },
+      "10451": {
+        "id": 10451,
+        "name": "Yanoman"
+      },
+      "10452": {
+        "id": 10452,
+        "name": "Drageus Games"
+      },
+      "10453": {
+        "id": 10453,
+        "name": "14° East"
+      },
+      "10454": {
+        "id": 10454,
+        "name": "Adam Atomic"
+      },
+      "10458": {
+        "id": 10458,
+        "name": "Danny B"
+      },
+      "10459": {
+        "id": 10459,
+        "name": "Alan Hazelden"
+      },
+      "10460": {
+        "id": 10460,
+        "name": "Harry Lee"
+      },
+      "10462": {
+        "id": 10462,
+        "name": "Sega AM2 R&D Division"
+      },
+      "10467": {
+        "id": 10467,
+        "name": "Sega AM6 R&D Division"
+      },
+      "10469": {
+        "id": 10469,
+        "name": "The Foregone Syndicate"
+      },
+      "10470": {
+        "id": 10470,
+        "name": "1337 Game Design AB"
+      },
+      "10471": {
+        "id": 10471,
+        "name": "Senri"
+      },
+      "10472": {
+        "id": 10472,
+        "name": "[RON]"
+      },
+      "10473": {
+        "id": 10473,
+        "name": "Abogado Powers"
+      },
+      "10474": {
+        "id": 10474,
+        "name": "Active"
+      },
+      "10475": {
+        "id": 10475,
+        "name": "Affect Boom"
+      },
+      "10476": {
+        "id": 10476,
+        "name": "AIC Spirits"
+      },
+      "10477": {
+        "id": 10477,
+        "name": "Ail-Soft"
+      },
+      "10478": {
+        "id": 10478,
+        "name": "AKAI"
+      },
+      "10479": {
+        "id": 10479,
+        "name": "Alpha (accent)"
+      },
+      "10480": {
+        "id": 10480,
+        "name": "Alpha-Beta"
+      },
+      "10481": {
+        "id": 10481,
+        "name": "AM Annex"
+      },
+      "10482": {
+        "id": 10482,
+        "name": "Aplix Corporation"
+      },
+      "10483": {
+        "id": 10483,
+        "name": "Ariadne"
+      },
+      "10484": {
+        "id": 10484,
+        "name": "Bahamut"
+      },
+      "10485": {
+        "id": 10485,
+        "name": "Bell"
+      },
+      "10486": {
+        "id": 10486,
+        "name": "Bell Corporation"
+      },
+      "10487": {
+        "id": 10487,
+        "name": "BMG Japan"
+      },
+      "10488": {
+        "id": 10488,
+        "name": "Break"
+      },
+      "10489": {
+        "id": 10489,
+        "name": "Buddy Zoo"
+      },
+      "10490": {
+        "id": 10490,
+        "name": "Buzz Puppet"
+      },
+      "10491": {
+        "id": 10491,
+        "name": "Chameleon House"
+      },
+      "10492": {
+        "id": 10492,
+        "name": "Crystal Vision"
+      },
+      "10493": {
+        "id": 10493,
+        "name": "Cybelle"
+      },
+      "10494": {
+        "id": 10494,
+        "name": "Daiichi"
+      },
+      "10495": {
+        "id": 10495,
+        "name": "Daiki"
+      },
+      "10496": {
+        "id": 10496,
+        "name": "Datam Polystar"
+      },
+      "10497": {
+        "id": 10497,
+        "name": "Deith Leisure"
+      },
+      "10498": {
+        "id": 10498,
+        "name": "Denshi Media Services"
+      },
+      "10499": {
+        "id": 10499,
+        "name": "Destiny Software Productions"
+      },
+      "10500": {
+        "id": 10500,
+        "name": "Digital Factory"
+      },
+      "10501": {
+        "id": 10501,
+        "name": "Digital Media Lab"
+      },
+      "10502": {
+        "id": 10502,
+        "name": "Digitalogue"
+      },
+      "10503": {
+        "id": 10503,
+        "name": "Discis Knowledge Research"
+      },
+      "10504": {
+        "id": 10504,
+        "name": "ELOI Productions"
+      },
+      "10505": {
+        "id": 10505,
+        "name": "Entertainment Software Publishing"
+      },
+      "10506": {
+        "id": 10506,
+        "name": "Etona"
+      },
+      "10507": {
+        "id": 10507,
+        "name": "Exit"
+      },
+      "10508": {
+        "id": 10508,
+        "name": "F Creative Factory"
+      },
+      "10509": {
+        "id": 10509,
+        "name": "FAB"
+      },
+      "10510": {
+        "id": 10510,
+        "name": "Feycraft"
+      },
+      "10511": {
+        "id": 10511,
+        "name": "Fujitsu"
+      },
+      "10512": {
+        "id": 10512,
+        "name": "Fujitsu Parex"
+      },
+      "10513": {
+        "id": 10513,
+        "name": "Fujitsu Pasocom Systems"
+      },
+      "10514": {
+        "id": 10514,
+        "name": "Gaga Communications"
+      },
+      "10515": {
+        "id": 10515,
+        "name": "GAM"
+      },
+      "10516": {
+        "id": 10516,
+        "name": "Gensho Sugiyama"
+      },
+      "10517": {
+        "id": 10517,
+        "name": "Gimmick House"
+      },
+      "10518": {
+        "id": 10518,
+        "name": "Glams"
+      },
+      "10519": {
+        "id": 10519,
+        "name": "Heiwa"
+      },
+      "10520": {
+        "id": 10520,
+        "name": "Hitachi"
+      },
+      "10521": {
+        "id": 10521,
+        "name": "Hokusho"
+      },
+      "10522": {
+        "id": 10522,
+        "name": "IMP"
+      },
+      "10523": {
+        "id": 10523,
+        "name": "Infini Entertainment Technology"
+      },
+      "10524": {
+        "id": 10524,
+        "name": "Itsui"
+      },
+      "10525": {
+        "id": 10525,
+        "name": "JHV"
+      },
+      "10526": {
+        "id": 10526,
+        "name": "Jitensha"
+      },
+      "10527": {
+        "id": 10527,
+        "name": "JSH"
+      },
+      "10528": {
+        "id": 10528,
+        "name": "Koga Game Factory"
+      },
+      "10529": {
+        "id": 10529,
+        "name": "Kouji Oono"
+      },
+      "10530": {
+        "id": 10530,
+        "name": "Libido"
+      },
+      "10531": {
+        "id": 10531,
+        "name": "Log Corporation"
+      },
+      "10532": {
+        "id": 10532,
+        "name": "Mainichi Communications"
+      },
+      "10533": {
+        "id": 10533,
+        "name": "Marcus"
+      },
+      "10534": {
+        "id": 10534,
+        "name": "Masterpiece"
+      },
+      "10535": {
+        "id": 10535,
+        "name": "Masudaya"
+      },
+      "10536": {
+        "id": 10536,
+        "name": "MBL Research"
+      },
+      "10537": {
+        "id": 10537,
+        "name": "Media Gallop"
+      },
+      "10538": {
+        "id": 10538,
+        "name": "Media Quest"
+      },
+      "10539": {
+        "id": 10539,
+        "name": "NEST"
+      },
+      "10540": {
+        "id": 10540,
+        "name": "Nexton"
+      },
+      "10541": {
+        "id": 10541,
+        "name": "Nifty-Serve"
+      },
+      "10542": {
+        "id": 10542,
+        "name": "Nihon Create"
+      },
+      "10543": {
+        "id": 10543,
+        "name": "Nihon Shogi Network"
+      },
+      "10544": {
+        "id": 10544,
+        "name": "Ninelives"
+      },
+      "10545": {
+        "id": 10545,
+        "name": "Nippon Computer Systems"
+      },
+      "10546": {
+        "id": 10546,
+        "name": "OCC"
+      },
+      "10547": {
+        "id": 10547,
+        "name": "Onion Egg"
+      },
+      "10548": {
+        "id": 10548,
+        "name": "Oxford Softworks"
+      },
+      "10549": {
+        "id": 10549,
+        "name": "Oz Club"
+      },
+      "10550": {
+        "id": 10550,
+        "name": "Ozla Pictures"
+      },
+      "10551": {
+        "id": 10551,
+        "name": "Pack-In-Soft"
+      },
+      "10552": {
+        "id": 10552,
+        "name": "Pai"
+      },
+      "10553": {
+        "id": 10553,
+        "name": "Planning Office Wada"
+      },
+      "10554": {
+        "id": 10554,
+        "name": "Plex"
+      },
+      "10555": {
+        "id": 10555,
+        "name": "Polysys"
+      },
+      "10556": {
+        "id": 10556,
+        "name": "Prosit"
+      },
+      "10557": {
+        "id": 10557,
+        "name": "Ray Corporation"
+      },
+      "10558": {
+        "id": 10558,
+        "name": "Reindeer"
+      },
+      "10559": {
+        "id": 10559,
+        "name": "Right Brain"
+      },
+      "10560": {
+        "id": 10560,
+        "name": "Roommate Project"
+      },
+      "10561": {
+        "id": 10561,
+        "name": "Sada Soft"
+      },
+      "10562": {
+        "id": 10562,
+        "name": "Sai-Mate"
+      },
+      "10563": {
+        "id": 10563,
+        "name": "Saru Brunei"
+      },
+      "10564": {
+        "id": 10564,
+        "name": "Scarab Studio"
+      },
+      "10565": {
+        "id": 10565,
+        "name": "Scholar"
+      },
+      "10566": {
+        "id": 10566,
+        "name": "Screaming Pink"
+      },
+      "10567": {
+        "id": 10567,
+        "name": "Sega of America"
+      },
+      "10568": {
+        "id": 10568,
+        "name": "Sega Studio China"
+      },
+      "10569": {
+        "id": 10569,
+        "name": "SegaSoft"
+      },
+      "10570": {
+        "id": 10570,
+        "name": "Shar Rock"
+      },
+      "10571": {
+        "id": 10571,
+        "name": "Shinseisha"
+      },
+      "10572": {
+        "id": 10572,
+        "name": "Silence"
+      },
+      "10573": {
+        "id": 10573,
+        "name": "Soft Office"
+      },
+      "10574": {
+        "id": 10574,
+        "name": "Softstar Entertainment"
+      },
+      "10575": {
+        "id": 10575,
+        "name": "Soliton Software"
+      },
+      "10576": {
+        "id": 10576,
+        "name": "Sonnet Computer Entertainment"
+      },
+      "10577": {
+        "id": 10577,
+        "name": "Studio Line"
+      },
+      "10578": {
+        "id": 10578,
+        "name": "Studio Orphee"
+      },
+      "10579": {
+        "id": 10579,
+        "name": "System Supply N-Tech"
+      },
+      "10580": {
+        "id": 10580,
+        "name": "T.L.A. Developments"
+      },
+      "10581": {
+        "id": 10581,
+        "name": "T's Music"
+      },
+      "10582": {
+        "id": 10582,
+        "name": "Tantalus Entertainment"
+      },
+      "10583": {
+        "id": 10583,
+        "name": "Tantalus Interactive"
+      },
+      "10584": {
+        "id": 10584,
+        "name": "Team Titan"
+      },
+      "10585": {
+        "id": 10585,
+        "name": "TEN Institute"
+      },
+      "10586": {
+        "id": 10586,
+        "name": "The Advanced Technology Group"
+      },
+      "10587": {
+        "id": 10587,
+        "name": "Tokyo Movie Shinsha"
+      },
+      "10588": {
+        "id": 10588,
+        "name": "Transpegasus"
+      },
+      "10589": {
+        "id": 10589,
+        "name": "TUG"
+      },
+      "10591": {
+        "id": 10591,
+        "name": "Vantan International"
+      },
+      "10592": {
+        "id": 10592,
+        "name": "Uran"
+      },
+      "10593": {
+        "id": 10593,
+        "name": "Victor Soft"
+      },
+      "10594": {
+        "id": 10594,
+        "name": "Waka Manufacturing"
+      },
+      "10595": {
+        "id": 10595,
+        "name": "Xuse"
+      },
+      "10596": {
+        "id": 10596,
+        "name": "Yumedia"
+      },
+      "10597": {
+        "id": 10597,
+        "name": "earrgames"
+      },
+      "10598": {
+        "id": 10598,
+        "name": "InvisiblePanda"
+      },
+      "10599": {
+        "id": 10599,
+        "name": "Studio Wonder Effect"
+      },
+      "10600": {
+        "id": 10600,
+        "name": "Tencent"
+      },
+      "10601": {
+        "id": 10601,
+        "name": "Twinbeard Studios"
+      },
+      "10602": {
+        "id": 10602,
+        "name": "Twinbeard, Inc."
+      },
+      "10603": {
+        "id": 10603,
+        "name": "Moragami"
+      },
+      "10605": {
+        "id": 10605,
+        "name": "Bishop Games"
+      },
+      "10606": {
+        "id": 10606,
+        "name": "Upstream Arcade"
+      },
+      "10607": {
+        "id": 10607,
+        "name": "Ukuza"
+      },
+      "10608": {
+        "id": 10608,
+        "name": "MoeNovel"
+      },
+      "10609": {
+        "id": 10609,
+        "name": "MoeNovel"
+      },
+      "10610": {
+        "id": 10610,
+        "name": "Chicken in The Corn"
+      },
+      "10611": {
+        "id": 10611,
+        "name": "Critical Games"
+      },
+      "10612": {
+        "id": 10612,
+        "name": "Tune 1000 Corp"
+      },
+      "10613": {
+        "id": 10613,
+        "name": "TROOOZE"
+      },
+      "10614": {
+        "id": 10614,
+        "name": "TENBIRDS"
+      },
+      "10615": {
+        "id": 10615,
+        "name": "Velan Studios"
+      },
+      "10616": {
+        "id": 10616,
+        "name": "Mecha Studios"
+      },
+      "10617": {
+        "id": 10617,
+        "name": "ALICE IN DISSONANCE"
+      },
+      "10618": {
+        "id": 10618,
+        "name": "Cherrymochi"
+      },
+      "10619": {
+        "id": 10619,
+        "name": "Vadd games"
+      },
+      "10620": {
+        "id": 10620,
+        "name": "3D2 Entertainment"
+      },
+      "10621": {
+        "id": 10621,
+        "name": "Butterflyware"
+      },
+      "10622": {
+        "id": 10622,
+        "name": "KIRA"
+      },
+      "10623": {
+        "id": 10623,
+        "name": "House House"
+      },
+      "10624": {
+        "id": 10624,
+        "name": "illuCalab"
+      },
+      "10625": {
+        "id": 10625,
+        "name": "CollectorVision Games"
+      },
+      "10626": {
+        "id": 10626,
+        "name": "OMOCAT"
+      },
+      "10627": {
+        "id": 10627,
+        "name": "Valiant Game Studio AB"
+      },
+      "10628": {
+        "id": 10628,
+        "name": "Hakogame"
+      },
+      "10629": {
+        "id": 10629,
+        "name": "Kiki Co., Ltd."
+      },
+      "10630": {
+        "id": 10630,
+        "name": "Progress Software"
+      },
+      "10631": {
+        "id": 10631,
+        "name": "Hide"
+      },
+      "10632": {
+        "id": 10632,
+        "name": "Medix"
+      },
+      "10633": {
+        "id": 10633,
+        "name": "Studio9"
+      },
+      "10634": {
+        "id": 10634,
+        "name": "Taijin Media"
+      },
+      "10635": {
+        "id": 10635,
+        "name": "E-Frontier"
+      },
+      "10636": {
+        "id": 10636,
+        "name": "CoolCool"
+      },
+      "10637": {
+        "id": 10637,
+        "name": "Breakout"
+      },
+      "10638": {
+        "id": 10638,
+        "name": "Recom"
+      },
+      "10639": {
+        "id": 10639,
+        "name": "Cleaversoft"
+      },
+      "10640": {
+        "id": 10640,
+        "name": "Byking"
+      },
+      "10641": {
+        "id": 10641,
+        "name": "Squanch Games"
+      },
+      "10642": {
+        "id": 10642,
+        "name": "BitFinity"
+      },
+      "10643": {
+        "id": 10643,
+        "name": "McLeodGaming"
+      },
+      "10644": {
+        "id": 10644,
+        "name": "Wave 1 Games"
+      },
+      "10645": {
+        "id": 10645,
+        "name": "Clarus Victoria"
+      },
+      "10646": {
+        "id": 10646,
+        "name": "Stellar Circle"
+      },
+      "10647": {
+        "id": 10647,
+        "name": "Equinox Digital Entertainment"
+      },
+      "10648": {
+        "id": 10648,
+        "name": "Phantom EFX"
+      },
+      "10649": {
+        "id": 10649,
+        "name": "Nodding Heads Games"
+      },
+      "10650": {
+        "id": 10650,
+        "name": "Hyper Games"
+      },
+      "10651": {
+        "id": 10651,
+        "name": "Alter Games"
+      },
+      "10652": {
+        "id": 10652,
+        "name": "Warcave"
+      },
+      "10653": {
+        "id": 10653,
+        "name": "Twirlbound"
+      },
+      "10654": {
+        "id": 10654,
+        "name": "PortaPlay"
+      },
+      "10655": {
+        "id": 10655,
+        "name": "Tim van Kan"
+      },
+      "10656": {
+        "id": 10656,
+        "name": "Tom Raudys"
+      },
+      "10657": {
+        "id": 10657,
+        "name": "ByteRockers' Games"
       }
     }
   },
-  "remaining_monthly_allowance": 2996,
+  "remaining_monthly_allowance": 2989,
   "extra_allowance": 0,
-  "allowance_refresh_timer": 2540097
+  "allowance_refresh_timer": 2541785
 }

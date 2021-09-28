@@ -2,7 +2,7 @@
   "code": 200,
   "status": "Success",
   "data": {
-    "count": 19,
+    "count": 29,
     "genres": {
       "1": {
         "id": 1,
@@ -79,10 +79,50 @@
       "19": {
         "id": 19,
         "name": "Vehicle Simulation"
+      },
+      "20": {
+        "id": 20,
+        "name": "Board"
+      },
+      "21": {
+        "id": 21,
+        "name": "Education"
+      },
+      "22": {
+        "id": 22,
+        "name": "Family"
+      },
+      "23": {
+        "id": 23,
+        "name": "Party"
+      },
+      "24": {
+        "id": 24,
+        "name": "Productivity"
+      },
+      "25": {
+        "id": 25,
+        "name": "Quiz"
+      },
+      "26": {
+        "id": 26,
+        "name": "Utility"
+      },
+      "27": {
+        "id": 27,
+        "name": "Virtual Console"
+      },
+      "28": {
+        "id": 28,
+        "name": "Unofficial"
+      },
+      "29": {
+        "id": 29,
+        "name": "GBA Video / PSP Video"
       }
     }
   },
-  "remaining_monthly_allowance": 2997,
+  "remaining_monthly_allowance": 2990,
   "extra_allowance": 0,
-  "allowance_refresh_timer": 2540120
+  "allowance_refresh_timer": 2541812
 }

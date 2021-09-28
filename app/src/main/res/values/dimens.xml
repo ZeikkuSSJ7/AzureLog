@@ -12,7 +12,7 @@
     <dimen name="dialogEditCommentEditTextMinHeight">150dp</dimen>
     <dimen name="drawerHeaderIconMargin">15dp</dimen>
     <dimen name="drawerHeaderAppNameTextMarginTop">40dp</dimen>
-    <dimen name="drawerHeaderAppNameTextSize">28sp</dimen>
+    <dimen name="drawerHeaderAppNameTextSize">48sp</dimen>
     <dimen name="gameGridCardMargin">1dp</dimen>
     <dimen name="gameGridCardPadding">2dp</dimen>
     <dimen name="gameGridCardCoverPadding">3dp</dimen>

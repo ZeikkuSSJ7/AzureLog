@@ -2,7 +2,7 @@
   "code": 200,
   "status": "Success",
   "data": {
-    "count": 4273,
+    "count": 4405,
     "publishers": {
       "1": {
         "id": 1,
@@ -2336,10 +2336,6 @@
         "id": 873,
         "name": "DigiPen Institute of Technology"
       },
-      "878": {
-        "id": 878,
-        "name": "Titus Software, THQ Wireless"
-      },
       "879": {
         "id": 879,
         "name": "989 Sports"
@@ -4239,10 +4235,6 @@
       "1602": {
         "id": 1602,
         "name": "Cardboard Computer"
-      },
-      "1603": {
-        "id": 1603,
-        "name": "Eidos  Interactive"
       },
       "1604": {
         "id": 1604,
@@ -9296,10 +9288,6 @@
         "id": 3330,
         "name": "Prism Entertainment"
       },
-      "3331": {
-        "id": 3331,
-        "name": "tobyfox"
-      },
       "3332": {
         "id": 3332,
         "name": "Asteroid Base"
@@ -9779,10 +9767,6 @@
       "3522": {
         "id": 3522,
         "name": "Blast Entertainment Ltd."
-      },
-      "3523": {
-        "id": 3523,
-        "name": "Ninja Kiwi"
       },
       "3524": {
         "id": 3524,
@@ -16292,10 +16276,6 @@
         "id": 5967,
         "name": "Finish Line Games"
       },
-      "5968": {
-        "id": 5968,
-        "name": "JoWooD Entertainment, Deep Silver, DreamCatcher Interactive"
-      },
       "5969": {
         "id": 5969,
         "name": "Playrise Digital"
@@ -17095,10 +17075,558 @@
       "8393": {
         "id": 8393,
         "name": "Bigosaur"
+      },
+      "8394": {
+        "id": 8394,
+        "name": "Feardemic"
+      },
+      "8395": {
+        "id": 8395,
+        "name": "Bad Seahorse"
+      },
+      "8396": {
+        "id": 8396,
+        "name": "Lag Studios"
+      },
+      "8397": {
+        "id": 8397,
+        "name": "Vantan Game Academy"
+      },
+      "8398": {
+        "id": 8398,
+        "name": "Toby Fox"
+      },
+      "8399": {
+        "id": 8399,
+        "name": "Leadman Games"
+      },
+      "8403": {
+        "id": 8403,
+        "name": "ninja kiwi"
+      },
+      "8404": {
+        "id": 8404,
+        "name": "Enki"
+      },
+      "8405": {
+        "id": 8405,
+        "name": "Axolot"
+      },
+      "8406": {
+        "id": 8406,
+        "name": "Mountain King Studios"
+      },
+      "8407": {
+        "id": 8407,
+        "name": "ASCII Something Good"
+      },
+      "8408": {
+        "id": 8408,
+        "name": "Inner Brain"
+      },
+      "8409": {
+        "id": 8409,
+        "name": "Something Good"
+      },
+      "8410": {
+        "id": 8410,
+        "name": "Game Studio"
+      },
+      "8411": {
+        "id": 8411,
+        "name": "Societa Daikanyama"
+      },
+      "8412": {
+        "id": 8412,
+        "name": "i-Motion"
+      },
+      "8413": {
+        "id": 8413,
+        "name": "Masudaya"
+      },
+      "8414": {
+        "id": 8414,
+        "name": "9003"
+      },
+      "8415": {
+        "id": 8415,
+        "name": "Sting"
+      },
+      "8416": {
+        "id": 8416,
+        "name": "Mainichi Communications"
+      },
+      "8417": {
+        "id": 8417,
+        "name": "FOG"
+      },
+      "8418": {
+        "id": 8418,
+        "name": "BMG Victor"
+      },
+      "8420": {
+        "id": 8420,
+        "name": "BMG Japan"
+      },
+      "8421": {
+        "id": 8421,
+        "name": "C-Seven"
+      },
+      "8422": {
+        "id": 8422,
+        "name": "Media Quest"
+      },
+      "8423": {
+        "id": 8423,
+        "name": "Omiya Soft"
+      },
+      "8424": {
+        "id": 8424,
+        "name": "Oracion"
+      },
+      "8425": {
+        "id": 8425,
+        "name": "Quintet"
+      },
+      "8426": {
+        "id": 8426,
+        "name": "We Net"
+      },
+      "8427": {
+        "id": 8427,
+        "name": "WorkJam"
+      },
+      "8428": {
+        "id": 8428,
+        "name": "Drageus Games"
+      },
+      "8429": {
+        "id": 8429,
+        "name": "Warner Bros. Interactive Entertainment"
+      },
+      "8430": {
+        "id": 8430,
+        "name": "JoWooD Entertainment"
+      },
+      "8431": {
+        "id": 8431,
+        "name": "THQ Wireless"
+      },
+      "8432": {
+        "id": 8432,
+        "name": "[RON]"
+      },
+      "8433": {
+        "id": 8433,
+        "name": "Abogado Powers"
+      },
+      "8434": {
+        "id": 8434,
+        "name": "ADK"
+      },
+      "8435": {
+        "id": 8435,
+        "name": "AKI"
+      },
+      "8436": {
+        "id": 8436,
+        "name": "Aplix Corporation"
+      },
+      "8437": {
+        "id": 8437,
+        "name": "ASC Games"
+      },
+      "8438": {
+        "id": 8438,
+        "name": "Crystal Vision"
+      },
+      "8439": {
+        "id": 8439,
+        "name": "Daiki"
+      },
+      "8440": {
+        "id": 8440,
+        "name": "DaZZ"
+      },
+      "8441": {
+        "id": 8441,
+        "name": "Denshi Media Services"
+      },
+      "8442": {
+        "id": 8442,
+        "name": "Falcom"
+      },
+      "8443": {
+        "id": 8443,
+        "name": "Fujitsu"
+      },
+      "8444": {
+        "id": 8444,
+        "name": "Fujitsu Parex"
+      },
+      "8445": {
+        "id": 8445,
+        "name": "Fujitsu Pasocom Systems"
+      },
+      "8446": {
+        "id": 8446,
+        "name": "Fun House"
+      },
+      "8447": {
+        "id": 8447,
+        "name": "GAM"
+      },
+      "8448": {
+        "id": 8448,
+        "name": "General Entertainment"
+      },
+      "8449": {
+        "id": 8449,
+        "name": "Glams"
+      },
+      "8450": {
+        "id": 8450,
+        "name": "GMF"
+      },
+      "8451": {
+        "id": 8451,
+        "name": "Hitachi"
+      },
+      "8452": {
+        "id": 8452,
+        "name": "JVC"
+      },
+      "8453": {
+        "id": 8453,
+        "name": "Libido"
+      },
+      "8454": {
+        "id": 8454,
+        "name": "Locus"
+      },
+      "8455": {
+        "id": 8455,
+        "name": "Midway Home Entertainment"
+      },
+      "8456": {
+        "id": 8456,
+        "name": "Midway Manufacturing"
+      },
+      "8457": {
+        "id": 8457,
+        "name": "Mizuki"
+      },
+      "8458": {
+        "id": 8458,
+        "name": "Neverland"
+      },
+      "8459": {
+        "id": 8459,
+        "name": "Nexton"
+      },
+      "8460": {
+        "id": 8460,
+        "name": "Nihon Syscom"
+      },
+      "8461": {
+        "id": 8461,
+        "name": "OCC"
+      },
+      "8462": {
+        "id": 8462,
+        "name": "OpeNBooK"
+      },
+      "8463": {
+        "id": 8463,
+        "name": "Oz Club"
+      },
+      "8464": {
+        "id": 8464,
+        "name": "Pack-In-Soft"
+      },
+      "8465": {
+        "id": 8465,
+        "name": "Pai"
+      },
+      "8466": {
+        "id": 8466,
+        "name": "Patra"
+      },
+      "8467": {
+        "id": 8467,
+        "name": "Ray Corporation"
+      },
+      "8468": {
+        "id": 8468,
+        "name": "Sada Soft"
+      },
+      "8469": {
+        "id": 8469,
+        "name": "Sai-Mate"
+      },
+      "8470": {
+        "id": 8470,
+        "name": "Shar Rock"
+      },
+      "8471": {
+        "id": 8471,
+        "name": "Sieg"
+      },
+      "8472": {
+        "id": 8472,
+        "name": "Soft Office"
+      },
+      "8473": {
+        "id": 8473,
+        "name": "Soft Vision"
+      },
+      "8474": {
+        "id": 8474,
+        "name": "Softstar Entertainment"
+      },
+      "8475": {
+        "id": 8475,
+        "name": "Software Heaven"
+      },
+      "8476": {
+        "id": 8476,
+        "name": "TBS (Tokyo Broadcasting System)"
+      },
+      "8477": {
+        "id": 8477,
+        "name": "Toei Video"
+      },
+      "8479": {
+        "id": 8479,
+        "name": "Treasure"
+      },
+      "8480": {
+        "id": 8480,
+        "name": "Uran"
+      },
+      "8481": {
+        "id": 8481,
+        "name": "Vantan International"
+      },
+      "8482": {
+        "id": 8482,
+        "name": "Victor Soft"
+      },
+      "8483": {
+        "id": 8483,
+        "name": "Waka Manufacturing"
+      },
+      "8484": {
+        "id": 8484,
+        "name": "Warp"
+      },
+      "8485": {
+        "id": 8485,
+        "name": "Wooyoung System"
+      },
+      "8486": {
+        "id": 8486,
+        "name": "Xuse"
+      },
+      "8487": {
+        "id": 8487,
+        "name": "Flying Interactive"
+      },
+      "8488": {
+        "id": 8488,
+        "name": "InvisiblePanda"
+      },
+      "8489": {
+        "id": 8489,
+        "name": "Bushimo"
+      },
+      "8490": {
+        "id": 8490,
+        "name": "Studio Wonder Effect"
+      },
+      "8491": {
+        "id": 8491,
+        "name": "Twinbeard Studios"
+      },
+      "8492": {
+        "id": 8492,
+        "name": "Twinbeard, Inc."
+      },
+      "8493": {
+        "id": 8493,
+        "name": "Joindots"
+      },
+      "8494": {
+        "id": 8494,
+        "name": "Bishop Games"
+      },
+      "8495": {
+        "id": 8495,
+        "name": "MoeNovel"
+      },
+      "8496": {
+        "id": 8496,
+        "name": "ZOO Corporation"
+      },
+      "8497": {
+        "id": 8497,
+        "name": "B-Alive"
+      },
+      "8498": {
+        "id": 8498,
+        "name": "TROOOZE"
+      },
+      "8499": {
+        "id": 8499,
+        "name": "Sabec"
+      },
+      "8500": {
+        "id": 8500,
+        "name": "NEXTGENREALITY"
+      },
+      "8501": {
+        "id": 8501,
+        "name": "Bromio"
+      },
+      "8502": {
+        "id": 8502,
+        "name": "Vadd games"
+      },
+      "8503": {
+        "id": 8503,
+        "name": "Lucid Publishing Ltd."
+      },
+      "8504": {
+        "id": 8504,
+        "name": "Butterflyware"
+      },
+      "8505": {
+        "id": 8505,
+        "name": "KIRA"
+      },
+      "8506": {
+        "id": 8506,
+        "name": "The 6502 Collective"
+      },
+      "8507": {
+        "id": 8507,
+        "name": "CollectorVision Games"
+      },
+      "8508": {
+        "id": 8508,
+        "name": "Nacon"
+      },
+      "8509": {
+        "id": 8509,
+        "name": "Phoenixx Inc."
+      },
+      "8510": {
+        "id": 8510,
+        "name": "Valiant Game Studio AB"
+      },
+      "8511": {
+        "id": 8511,
+        "name": "Kiki Co., Ltd."
+      },
+      "8512": {
+        "id": 8512,
+        "name": "Kobi"
+      },
+      "8513": {
+        "id": 8513,
+        "name": "Medix"
+      },
+      "8514": {
+        "id": 8514,
+        "name": "AquaSystem"
+      },
+      "8515": {
+        "id": 8515,
+        "name": "Major A"
+      },
+      "8516": {
+        "id": 8516,
+        "name": "E-Frontier"
+      },
+      "8517": {
+        "id": 8517,
+        "name": "CoolCool"
+      },
+      "8518": {
+        "id": 8518,
+        "name": "AIA Games"
+      },
+      "8519": {
+        "id": 8519,
+        "name": "Highwaystar"
+      },
+      "8520": {
+        "id": 8520,
+        "name": "Recom"
+      },
+      "8521": {
+        "id": 8521,
+        "name": "Playtainment"
+      },
+      "8522": {
+        "id": 8522,
+        "name": "Cleaversoft"
+      },
+      "8523": {
+        "id": 8523,
+        "name": "Crows Crows Crows"
+      },
+      "8524": {
+        "id": 8524,
+        "name": "BitFinity"
+      },
+      "8525": {
+        "id": 8525,
+        "name": "McLeodGaming"
+      },
+      "8526": {
+        "id": 8526,
+        "name": "Clarus Victoria"
+      },
+      "8527": {
+        "id": 8527,
+        "name": "Stellar Circle"
+      },
+      "8528": {
+        "id": 8528,
+        "name": "Evercade"
+      },
+      "8529": {
+        "id": 8529,
+        "name": "Super.com"
+      },
+      "8530": {
+        "id": 8530,
+        "name": "Team Pixelboy"
+      },
+      "8531": {
+        "id": 8531,
+        "name": "TiMer Games"
+      },
+      "8532": {
+        "id": 8532,
+        "name": "Warcave"
+      },
+      "8533": {
+        "id": 8533,
+        "name": "Kongregate"
+      },
+      "8534": {
+        "id": 8534,
+        "name": "ByteRockers' Games"
+      },
+      "8535": {
+        "id": 8535,
+        "name": "Numskull Games"
       }
     }
   },
-  "remaining_monthly_allowance": 2995,
+  "remaining_monthly_allowance": 2988,
   "extra_allowance": 0,
-  "allowance_refresh_timer": 2540053
+  "allowance_refresh_timer": 2541771
 }

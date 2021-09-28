@@ -2,7 +2,7 @@
   "code": 200,
   "status": "Success",
   "data": {
-    "count": 114,
+    "count": 116,
     "platforms": {
       "1": {
         "id": 1,
@@ -547,7 +547,7 @@
       "4979": {
         "id": 4979,
         "name": "SAM Coupé",
-        "alias": null
+        "alias": "sam-coupe"
       },
       "4980": {
         "id": 4980,
@@ -573,10 +573,20 @@
         "id": 4984,
         "name": "Xavix Port",
         "alias": "xavix-port"
+      },
+      "4985": {
+        "id": 4985,
+        "name": "Evercade",
+        "alias": "evercade"
+      },
+      "4986": {
+        "id": 4986,
+        "name": "Oric-1",
+        "alias": "oric-1"
       }
     }
   },
-  "remaining_monthly_allowance": 2998,
+  "remaining_monthly_allowance": 2991,
   "extra_allowance": 0,
-  "allowance_refresh_timer": 2540141
+  "allowance_refresh_timer": 2541832
 }
