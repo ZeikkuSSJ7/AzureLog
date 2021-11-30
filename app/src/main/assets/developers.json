@@ -2,7 +2,7 @@
   "code": 200,
   "status": "Success",
   "data": {
-    "count": 8209,
+    "count": 8252,
     "developers": {
       "1": {
         "id": 1,
@@ -32839,10 +32839,182 @@
       "10657": {
         "id": 10657,
         "name": "ByteRockers' Games"
+      },
+      "10658": {
+        "id": 10658,
+        "name": "Lines Studio"
+      },
+      "10659": {
+        "id": 10659,
+        "name": "Fiction Factory Games"
+      },
+      "10660": {
+        "id": 10660,
+        "name": "ION LANDS"
+      },
+      "10661": {
+        "id": 10661,
+        "name": "Cheerdealers"
+      },
+      "10662": {
+        "id": 10662,
+        "name": "JFI GAMES"
+      },
+      "10663": {
+        "id": 10663,
+        "name": "HopFrog"
+      },
+      "10664": {
+        "id": 10664,
+        "name": "Black Tower Studios"
+      },
+      "10665": {
+        "id": 10665,
+        "name": "Radiation Blue"
+      },
+      "10666": {
+        "id": 10666,
+        "name": "Slipgate Ironworks"
+      },
+      "10667": {
+        "id": 10667,
+        "name": "One More Level"
+      },
+      "10668": {
+        "id": 10668,
+        "name": "Crafts & Meister"
+      },
+      "10669": {
+        "id": 10669,
+        "name": "Ilinx Coroporation"
+      },
+      "10670": {
+        "id": 10670,
+        "name": "Anti Gravity Game Studio"
+      },
+      "10671": {
+        "id": 10671,
+        "name": "Novectacle"
+      },
+      "10672": {
+        "id": 10672,
+        "name": "Typhoon Studios"
+      },
+      "10673": {
+        "id": 10673,
+        "name": "Beat Games"
+      },
+      "10674": {
+        "id": 10674,
+        "name": "VRChat Inc."
+      },
+      "10675": {
+        "id": 10675,
+        "name": "No Cliché"
+      },
+      "10676": {
+        "id": 10676,
+        "name": "Pionesoft"
+      },
+      "10677": {
+        "id": 10677,
+        "name": "Favorite"
+      },
+      "10678": {
+        "id": 10678,
+        "name": "Ciel"
+      },
+      "10679": {
+        "id": 10679,
+        "name": "F&C FC02"
+      },
+      "10680": {
+        "id": 10680,
+        "name": "Studio OX"
+      },
+      "10681": {
+        "id": 10681,
+        "name": "Baked Games S.A."
+      },
+      "10682": {
+        "id": 10682,
+        "name": "Bleem Company"
+      },
+      "10683": {
+        "id": 10683,
+        "name": "Picorinne Soft"
+      },
+      "10684": {
+        "id": 10684,
+        "name": "Toyful Games"
+      },
+      "10685": {
+        "id": 10685,
+        "name": "Patissier"
+      },
+      "10686": {
+        "id": 10686,
+        "name": "ILCA"
+      },
+      "10687": {
+        "id": 10687,
+        "name": "Abel"
+      },
+      "10688": {
+        "id": 10688,
+        "name": "Play Mechanix"
+      },
+      "10689": {
+        "id": 10689,
+        "name": "Studio e-go"
+      },
+      "10690": {
+        "id": 10690,
+        "name": "Leaf"
+      },
+      "10691": {
+        "id": 10691,
+        "name": "Taito GM R&D Sect. #2"
+      },
+      "10692": {
+        "id": 10692,
+        "name": "Cuddle Monster Games"
+      },
+      "10693": {
+        "id": 10693,
+        "name": "Jankenteam"
+      },
+      "10694": {
+        "id": 10694,
+        "name": "GS2 Games"
+      },
+      "10695": {
+        "id": 10695,
+        "name": "La Belle Games"
+      },
+      "10696": {
+        "id": 10696,
+        "name": "Ghost Dog Films"
+      },
+      "10697": {
+        "id": 10697,
+        "name": "Raw Thrills"
+      },
+      "10698": {
+        "id": 10698,
+        "name": "Void Star Creations"
+      },
+      "10699": {
+        "id": 10699,
+        "name": "Breaking Walls"
+      },
+      "10700": {
+        "id": 10700,
+        "name": "Kiwi Walks"
       }
     }
   },
-  "remaining_monthly_allowance": 2989,
+  "remaining_monthly_allowance": 2998,
   "extra_allowance": 0,
-  "allowance_refresh_timer": 2541785
+  "allowance_refresh_timer": 2448489
 }

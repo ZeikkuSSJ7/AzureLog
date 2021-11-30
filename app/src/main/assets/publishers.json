@@ -2,7 +2,7 @@
   "code": 200,
   "status": "Success",
   "data": {
-    "count": 4405,
+    "count": 4437,
     "publishers": {
       "1": {
         "id": 1,
@@ -17623,10 +17623,138 @@
       "8535": {
         "id": 8535,
         "name": "Numskull Games"
+      },
+      "8536": {
+        "id": 8536,
+        "name": "Lines Studio"
+      },
+      "8537": {
+        "id": 8537,
+        "name": "Bit Kid"
+      },
+      "8538": {
+        "id": 8538,
+        "name": "System Era Softworks"
+      },
+      "8539": {
+        "id": 8539,
+        "name": "JFI GAMES"
+      },
+      "8540": {
+        "id": 8540,
+        "name": "All In! Games"
+      },
+      "8541": {
+        "id": 8541,
+        "name": "Beat Games"
+      },
+      "8542": {
+        "id": 8542,
+        "name": "VRChat Inc."
+      },
+      "8543": {
+        "id": 8543,
+        "name": "Pionesoft"
+      },
+      "8544": {
+        "id": 8544,
+        "name": "Favorite"
+      },
+      "8545": {
+        "id": 8545,
+        "name": "syn Sophia"
+      },
+      "8546": {
+        "id": 8546,
+        "name": "Ciel"
+      },
+      "8547": {
+        "id": 8547,
+        "name": "Baked Games S.A."
+      },
+      "8548": {
+        "id": 8548,
+        "name": "Bleem Company"
+      },
+      "8549": {
+        "id": 8549,
+        "name": "Picorinne Soft"
+      },
+      "8550": {
+        "id": 8550,
+        "name": "Flight-Plan"
+      },
+      "8551": {
+        "id": 8551,
+        "name": "Sega Toys"
+      },
+      "8552": {
+        "id": 8552,
+        "name": "Abel"
+      },
+      "8553": {
+        "id": 8553,
+        "name": "Global VR"
+      },
+      "8554": {
+        "id": 8554,
+        "name": "Add-On Electronics Ltd."
+      },
+      "8555": {
+        "id": 8555,
+        "name": "Symbio Planning"
+      },
+      "8556": {
+        "id": 8556,
+        "name": "Leaf"
+      },
+      "8557": {
+        "id": 8557,
+        "name": "Marvelous Entertainment"
+      },
+      "8558": {
+        "id": 8558,
+        "name": "Serenity Forge"
+      },
+      "8559": {
+        "id": 8559,
+        "name": "Unbalance Corporation"
+      },
+      "8560": {
+        "id": 8560,
+        "name": "Wolfgame"
+      },
+      "8561": {
+        "id": 8561,
+        "name": "GS2 Games"
+      },
+      "8562": {
+        "id": 8562,
+        "name": "ARTE France"
+      },
+      "8563": {
+        "id": 8563,
+        "name": "ARTE Experience"
+      },
+      "8564": {
+        "id": 8564,
+        "name": "Raw Thrills"
+      },
+      "8565": {
+        "id": 8565,
+        "name": "Void Star Creations"
+      },
+      "8566": {
+        "id": 8566,
+        "name": "Breaking Walls"
+      },
+      "8567": {
+        "id": 8567,
+        "name": "ININ Games"
       }
     }
   },
-  "remaining_monthly_allowance": 2988,
+  "remaining_monthly_allowance": 2997,
   "extra_allowance": 0,
-  "allowance_refresh_timer": 2541771
+  "allowance_refresh_timer": 2448415
 }

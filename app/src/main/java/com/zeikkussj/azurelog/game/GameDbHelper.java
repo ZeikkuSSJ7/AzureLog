@@ -146,7 +146,10 @@ public class GameDbHelper extends SQLiteOpenHelper {
     public void initDB(String table, HashMap<Integer, String> data) {
         db.execSQL("CREATE TABLE " + table + "(id INTEGER PRIMARY KEY, name TEXT NOT NULL) ");
         for (HashMap.Entry<Integer, String> row : data.entrySet()) {
-            db.execSQL("INSERT INTO " + table + " VALUES (" + row.getKey() + ", '" + row.getValue() + "')");
+            Cursor c = db.rawQuery("SELECT id FROM " + table + " WHERE id = " + row.getKey(), null);
+            if (!c.moveToNext())
+                db.execSQL("INSERT INTO " + table + " VALUES (" + row.getKey() + ", '" + row.getValue() + "')");
+            c.close();
         }
     }
 
